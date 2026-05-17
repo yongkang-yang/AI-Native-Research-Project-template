@@ -46,7 +46,7 @@ Do not modify the rules above. Add all new project-specific rules below this lin
 ### Literature Management Rule
 
 - For core literature, locate the source PDF from the local Zotero library when available.
-- Convert core literature PDFs into Markdown using an appropriate PDF-to-Markdown or OCR tool, such as PaddleOCR; prefer direct text extraction for machine-readable PDFs and OCR for scanned PDFs.
+- Convert core literature PDFs into Markdown using MinerU or another appropriate PDF-to-Markdown/OCR tool; prefer direct text extraction for machine-readable PDFs and OCR for scanned PDFs.
 - Save the converted Markdown files under `literature/` with clear filenames that include author, year, and short title when possible.
 
 ### R Script Rule
