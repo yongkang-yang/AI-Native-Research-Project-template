@@ -8,6 +8,7 @@ This repository is a reusable skeleton for empirical research projects. `README.
 - `CLAUDE.md`: symbolic link to `AGENTS.md` for tools that read `CLAUDE.md`.
 - `PROJECT_REPORT.md`: research-progress summary covering project status, active theory decisions, empirical package, and current status.
 - `MEASURES.md`: variable and measure registry, with sources and operationalization notes.
+- `RESULTS.md`: concise project-level index of key empirical results from `studies/`.
 - `README.md`: repository structure reference and naming guide.
 
 ## Directory Purposes

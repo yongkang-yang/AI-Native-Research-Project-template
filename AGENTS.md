@@ -29,6 +29,7 @@
 - Update `literature/LITERATURE_REVIEW.md` when search scope, paper screening, synthesis, tensions in the literature, reading queue, or paper notes change.
 
 - Update `MEASURES.md` when variables, measures, source citations, coding rules, aggregation rules, or sample/wave usage change.
+- Update `RESULTS.md` when there are key results from `studies/`, including hypothesis-level findings, robustness checks, exploratory findings, or study-level conclusions that affect the project’s empirical narrative.
 - update `Logs` when the conversation is complete. 
 
 ## Custom Rules
