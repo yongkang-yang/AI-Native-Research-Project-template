@@ -50,7 +50,6 @@ Its update position is fixed between the `BEGIN DIRECTORY TREE` and `END DIRECTO
 |-- literature/
 |   `-- LITERATURE_REVIEW.md
 |-- logs/
-|   |-- 2026-05-17.md
 |   `-- daily_log_template.md
 |-- meetings/
 |   |-- .gitkeep
