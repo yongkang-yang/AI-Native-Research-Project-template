@@ -55,3 +55,12 @@ Do not modify the rules above. Add all new project-specific rules below this lin
 - Accept inputs through `commandArgs(trailingOnly = TRUE)` and avoid manual input, menus, the Viewer pane, or RStudio-specific features.
 - Use Linux/WSL paths and write reusable outputs explicitly to project files.
 - On failure, print a useful error message to stderr and exit with `quit(status = 1)`.
+
+### Manuscript Typography Rule
+
+Applies to all manuscript text the AI writes or revises (Word documents, Markdown drafts, response letters, cover letters, OSF documents, and any other prose the AI authors on behalf of the project).
+
+- Minimize em-dashes (`—`). Default to commas, colons, semicolons, or parentheses, and use periods to split long sentences. Reserve em-dashes for cases where no other punctuation reads naturally; never use paired em-dashes around a parenthetical when commas would work.
+- Use curly quotes throughout: `“ ”` for double quotes and `‘ ’` for single quotes and apostrophes. Do not introduce straight quotes (`"`, `'`); when revising existing text, convert any straight quotes you encounter to their curly equivalents.
+- En-dashes (`–`) are acceptable for ranges (e.g., `pp. 12–18`, `2019–2024`) and compound modifiers where the AOM/AMJ style guide allows them; do not substitute em-dashes for en-dashes.
+- These typographic conventions apply to the manuscript text, response letters, and cover letters, but not to code, file paths, command-line examples, or quoted source text (verbatim citations from a published paper keep their original punctuation).
