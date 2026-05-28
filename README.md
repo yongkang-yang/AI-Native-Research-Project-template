@@ -101,6 +101,7 @@ Its update position is fixed between the `BEGIN DIRECTORY TREE` and `END DIRECTO
 |   |   `-- .gitkeep
 |   `-- templates/
 |       `-- .gitkeep
-`-- Migration Playbook.md
+|-- Migration Playbook.md
+`-- RESULTS.md
 ```
 <!-- END DIRECTORY TREE -->
